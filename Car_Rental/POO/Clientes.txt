@@ -1,0 +1,7 @@
+1|José Manuel|Viseu|259758940|912683798|Particular|44
+2|Luis Fiilipe|Aguieira|935674825|347987535|Particular|27
+3|Carolina|Viseu|111|111|Particular|0
+4|Isabel Moreira|Canas de Senhorim|962675894|270749859|Particular|25
+5|Maria João|Lisboa|965544789|234568453|Particular|38
+6|Rita|Gondomar|324567890|324567865|Particular|2
+7|Empresa 1|Algarve|999888777|654321987|Empresa|2

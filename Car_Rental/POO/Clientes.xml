@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCParticular xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CParticular>
+    <ID>1</ID>
+    <Nome>José Manuel</Nome>
+    <Morada>Viseu</Morada>
+    <NIF>912683798</NIF>
+    <Contacto>259758940</Contacto>
+    <Tipo>Particular</Tipo>
+    <Idade>44</Idade>
+  </CParticular>
+  <CParticular>
+    <ID>2</ID>
+    <Nome>Luis Fiilipe</Nome>
+    <Morada>Aguieira</Morada>
+    <NIF>347987535</NIF>
+    <Contacto>935674825</Contacto>
+    <Tipo>Particular</Tipo>
+    <Idade>27</Idade>
+  </CParticular>
+  <CParticular>
+    <ID>3</ID>
+    <Nome>Carolina</Nome>
+    <Morada>Viseu</Morada>
+    <NIF>111</NIF>
+    <Contacto>111</Contacto>
+    <Tipo>Particular</Tipo>
+    <Idade>0</Idade>
+  </CParticular>
+  <CParticular>
+    <ID>4</ID>
+    <Nome>Isabel Moreira</Nome>
+    <Morada>Canas de Senhorim</Morada>
+    <NIF>270749859</NIF>
+    <Contacto>962675894</Contacto>
+    <Tipo>Particular</Tipo>
+    <Idade>25</Idade>
+  </CParticular>
+  <CParticular>
+    <ID>5</ID>
+    <Nome>Maria João</Nome>
+    <Morada>Lisboa</Morada>
+    <NIF>234568453</NIF>
+    <Contacto>965544789</Contacto>
+    <Tipo>Particular</Tipo>
+    <Idade>38</Idade>
+  </CParticular>
+  <CParticular>
+    <ID>6</ID>
+    <Nome>Rita</Nome>
+    <Morada>Gondomar</Morada>
+    <NIF>324567865</NIF>
+    <Contacto>324567890</Contacto>
+    <Tipo>Particular</Tipo>
+    <Idade>2</Idade>
+  </CParticular>
+</ArrayOfCParticular>

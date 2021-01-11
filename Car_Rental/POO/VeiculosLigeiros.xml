@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfVLigeiro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <VLigeiro>
+    <Matricula>33</Matricula>
+    <TipoVeiculo>Ligeiro</TipoVeiculo>
+    <MarcaModelo>BMW</MarcaModelo>
+    <SeguroAnual>180</SeguroAnual>
+    <Consumo>15</Consumo>
+    <PrecoDiario>10</PrecoDiario>
+    <Kms>2000</Kms>
+    <NumRequisicoes>5</NumRequisicoes>
+    <Ano>2019</Ano>
+    <Alugado>true</Alugado>
+    <Combustivel />
+  </VLigeiro>
+  <VLigeiro>
+    <Matricula>11-EE-33</Matricula>
+    <TipoVeiculo>Ligeiro</TipoVeiculo>
+    <MarcaModelo>Mercedez</MarcaModelo>
+    <SeguroAnual>10</SeguroAnual>
+    <Consumo>10</Consumo>
+    <PrecoDiario>1000</PrecoDiario>
+    <Kms>2000</Kms>
+    <NumRequisicoes>1</NumRequisicoes>
+    <Ano>2019</Ano>
+    <Alugado>true</Alugado>
+    <Combustivel>Gasolina</Combustivel>
+  </VLigeiro>
+  <VLigeiro>
+    <Matricula>11-ET-23</Matricula>
+    <TipoVeiculo>Ligeiro</TipoVeiculo>
+    <MarcaModelo>Renault</MarcaModelo>
+    <SeguroAnual>240</SeguroAnual>
+    <Consumo>13</Consumo>
+    <PrecoDiario>50</PrecoDiario>
+    <Kms>700500</Kms>
+    <NumRequisicoes>1</NumRequisicoes>
+    <Ano>2014</Ano>
+    <Alugado>false</Alugado>
+    <Combustivel>Gasolina</Combustivel>
+  </VLigeiro>
+  <VLigeiro>
+    <Matricula>AR-20-CP</Matricula>
+    <TipoVeiculo>Ligeiro</TipoVeiculo>
+    <MarcaModelo>Fiat 500c</MarcaModelo>
+    <SeguroAnual>120</SeguroAnual>
+    <Consumo>6</Consumo>
+    <PrecoDiario>56</PrecoDiario>
+    <Kms>23000</Kms>
+    <NumRequisicoes>0</NumRequisicoes>
+    <Ano>2018</Ano>
+    <Alugado>false</Alugado>
+    <Combustivel>Gasolina</Combustivel>
+  </VLigeiro>
+  <VLigeiro>
+    <Matricula>UC-20-RR</Matricula>
+    <TipoVeiculo>Ligeiro</TipoVeiculo>
+    <MarcaModelo>Citroen AX</MarcaModelo>
+    <SeguroAnual>340</SeguroAnual>
+    <Consumo>26</Consumo>
+    <PrecoDiario>23</PrecoDiario>
+    <Kms>345000</Kms>
+    <NumRequisicoes>0</NumRequisicoes>
+    <Ano>1998</Ano>
+    <Alugado>false</Alugado>
+    <Combustivel>Gasolina</Combustivel>
+  </VLigeiro>
+  <VLigeiro>
+    <Matricula>SL-11-BM</Matricula>
+    <TipoVeiculo>Ligeiro</TipoVeiculo>
+    <MarcaModelo>Ferrari f40</MarcaModelo>
+    <SeguroAnual>450</SeguroAnual>
+    <Consumo>23</Consumo>
+    <PrecoDiario>340</PrecoDiario>
+    <Kms>240000</Kms>
+    <NumRequisicoes>0</NumRequisicoes>
+    <Ano>1988</Ano>
+    <Alugado>false</Alugado>
+    <Combustivel>Gasolina</Combustivel>
+  </VLigeiro>
+  <VLigeiro>
+    <Matricula>ME-11-LI</Matricula>
+    <TipoVeiculo>Ligeiro</TipoVeiculo>
+    <MarcaModelo>Ford KA</MarcaModelo>
+    <SeguroAnual>100</SeguroAnual>
+    <Consumo>5</Consumo>
+    <PrecoDiario>46</PrecoDiario>
+    <Kms>56000</Kms>
+    <NumRequisicoes>0</NumRequisicoes>
+    <Ano>2014</Ano>
+    <Alugado>false</Alugado>
+    <Combustivel>Gasolina</Combustivel>
+  </VLigeiro>
+</ArrayOfVLigeiro>

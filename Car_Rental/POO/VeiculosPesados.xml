@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfVPesado xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <VPesado>
+    <Matricula>tp-45-ip</Matricula>
+    <TipoVeiculo>Pesado</TipoVeiculo>
+    <MarcaModelo>DAF</MarcaModelo>
+    <SeguroAnual>150</SeguroAnual>
+    <Consumo>12</Consumo>
+    <PrecoDiario>150</PrecoDiario>
+    <Kms>150000</Kms>
+    <NumRequisicoes>0</NumRequisicoes>
+    <Ano>2015</Ano>
+    <Alugado>false</Alugado>
+    <Transmissao>Automatico</Transmissao>
+  </VPesado>
+  <VPesado>
+    <Matricula>TY-23-PT</Matricula>
+    <TipoVeiculo>Pesado</TipoVeiculo>
+    <MarcaModelo>Volvo VM260</MarcaModelo>
+    <SeguroAnual>250</SeguroAnual>
+    <Consumo>23</Consumo>
+    <PrecoDiario>124</PrecoDiario>
+    <Kms>202034</Kms>
+    <NumRequisicoes>0</NumRequisicoes>
+    <Ano>2004</Ano>
+    <Alugado>false</Alugado>
+    <Transmissao>Automatico</Transmissao>
+  </VPesado>
+  <VPesado>
+    <Matricula>PT-32-PT</Matricula>
+    <TipoVeiculo>Pesado</TipoVeiculo>
+    <MarcaModelo>Mercedes Atego 2425</MarcaModelo>
+    <SeguroAnual>189</SeguroAnual>
+    <Consumo>32</Consumo>
+    <PrecoDiario>135</PrecoDiario>
+    <Kms>165000</Kms>
+    <NumRequisicoes>0</NumRequisicoes>
+    <Ano>2003</Ano>
+    <Alugado>false</Alugado>
+    <Transmissao>Automatico</Transmissao>
+  </VPesado>
+  <VPesado>
+    <Matricula>SQ-77-LP</Matricula>
+    <TipoVeiculo>Pesado</TipoVeiculo>
+    <MarcaModelo>Scania R440</MarcaModelo>
+    <SeguroAnual>165</SeguroAnual>
+    <Consumo>32</Consumo>
+    <PrecoDiario>120</PrecoDiario>
+    <Kms>165345</Kms>
+    <NumRequisicoes>0</NumRequisicoes>
+    <Ano>2006</Ano>
+    <Alugado>false</Alugado>
+    <Transmissao>Automatico</Transmissao>
+  </VPesado>
+  <VPesado>
+    <Matricula>RT-11-%$</Matricula>
+    <TipoVeiculo>Pesado</TipoVeiculo>
+    <MarcaModelo>Volks 13180</MarcaModelo>
+    <SeguroAnual>200</SeguroAnual>
+    <Consumo>35</Consumo>
+    <PrecoDiario>99</PrecoDiario>
+    <Kms>179099</Kms>
+    <NumRequisicoes>0</NumRequisicoes>
+    <Ano>2008</Ano>
+    <Alugado>false</Alugado>
+    <Transmissao>Automatico</Transmissao>
+  </VPesado>
+</ArrayOfVPesado>

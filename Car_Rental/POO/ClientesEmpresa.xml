@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCEmpresarial xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CEmpresarial>
+    <ID>7</ID>
+    <Nome>Empresa 1</Nome>
+    <Morada>Algarve</Morada>
+    <NIF>654321987</NIF>
+    <Contacto>999888777</Contacto>
+    <Tipo>Empresa</Tipo>
+    <CapitalSocial>2</CapitalSocial>
+  </CEmpresarial>
+</ArrayOfCEmpresarial>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelatorioCliente xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>5</ID>
+  <NOME>Maria João</NOME>
+  <MORADA>Lisboa</MORADA>
+  <NIF>965544789</NIF>
+  <CONTACTO>234568453</CONTACTO>
+  <TIPO>Particular</TIPO>
+  <IDADE>38</IDADE>
+  <CAPITALSOCIAL>0</CAPITALSOCIAL>
+  <Historico />
+</RelatorioCliente>

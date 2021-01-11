@@ -1,0 +1,12 @@
+33|Ligeiro|BMW|180|15|10|2000|5|2019|True|
+11-EE-33|Ligeiro|Mercedez|10|10|1000|2000|1|2019|True|Gasolina
+11-ET-23|Ligeiro|Renault|240|13|50|700500|1|2014|False|Gasolina
+AR-20-CP|Ligeiro|Fiat 500c|120|6|56|23000|0|2018|False|Gasolina
+UC-20-RR|Ligeiro|Citroen AX|340|26|23|345000|0|1998|False|Gasolina
+SL-11-BM|Ligeiro|Ferrari f40|450|23|340|240000|0|1988|False|Gasolina
+ME-11-LI|Ligeiro|Ford KA|100|5|46|56000|0|2014|False|Gasolina
+tp-45-ip|Pesado|DAF|150|12|150|150000|0|2015|False|Automatico
+TY-23-PT|Pesado|Volvo VM260|250|23|124|202034|0|2004|False|Automatico
+PT-32-PT|Pesado|Mercedes Atego 2425|189|32|135|165000|0|2003|False|Automatico
+SQ-77-LP|Pesado|Scania R440|165|32|120|165345|0|2006|False|Automatico
+RT-11-%$|Pesado|Volks 13180|200|35|99|179099|0|2008|False|Automatico
